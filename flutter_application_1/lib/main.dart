@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/widgets/Scaffold.dart';
+import 'package:flutter_application_1/widgets/ScrollColoresAle.dart';
 import 'package:flutter_application_1/widgets/StackCirculos.dart';
 import 'package:flutter_application_1/widgets/container.dart';
 import 'package:flutter_application_1/widgets/container2.dart';
@@ -25,7 +27,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       //Aquí llama directamente al widget
       //home: MyTablero(),
-      home: MyStackCirculos(),
+      home: MyScrollColoresAle(),
     );
   }
 }

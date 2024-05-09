@@ -15,8 +15,6 @@ class MyTablero extends StatelessWidget {
     );
   }
 }
-
-
 class CreaFilas extends StatelessWidget {
   const CreaFilas({Key? key}) : super(key: key);
 
