@@ -24,13 +24,11 @@ flutter:
     - family: Salium
       fonts:
         - asset: assets/fonts/Salium/Salium.ttf
-    - family: Salium
+    - family: fotoCielo1
       fonts:
-        - asset: assets/icons/cohete/cohete.png
-    - family: Salium
+        - asset: /Users/Tardes/Desktop/FlutterDef/Flutter3k/empty_testing_app/assets/images/imagen1.jpg
+    - family: fotoCielo2
       fonts:
-        - asset: assets/icons/nube/nube.png
-    - family: Salium
-      fonts:
-        - asset: assets/icons/movil/movil.png
+        - asset: /Users/Tardes/Desktop/FlutterDef/Flutter3k/empty_testing_app/assets/images/imagen2.jpg
+
   uses-material-design: true
