@@ -31,4 +31,6 @@ flutter:
       fonts:
         - asset: /Users/Tardes/Desktop/FlutterDef/Flutter3k/empty_testing_app/assets/images/imagen2.jpg
 
+        #puedes poner fonts: assets: assets/image directamente para que coja todas las imagenes
+
   uses-material-design: true
